@@ -19,6 +19,7 @@
 ## Uso
 1. Clonar el repositorio:
 ```bash
-git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/rodry-tup-utn/prog-iii-funcional-ii.git)
+git clone https://github.com/rodry-tup-utn/prog-iii-funcional-ii.git
+
 
 
